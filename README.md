@@ -33,3 +33,6 @@ C          0.08756   0.08972   0.09599   0.09712   0.10107   0.10798    10
 
 각각 언어별 Cosine Similarity 함수 예제(약 14개 언어)
 https://github.com/bluetsys/cosine_similarity
+
+R로 구현된 저장소
+https://github.com/bluetsys/r-lang-c-extensions
